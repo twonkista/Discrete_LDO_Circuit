@@ -12,7 +12,7 @@ It right now sends in a 3.1V output which is close and is within the ESP32 toler
 <img width="400" height="400" alt="IMG_5649" src="https://github.com/user-attachments/assets/27158419-65f7-49c3-a6c2-fc8c47369806" />
 <img width="400" height="400" alt="IMG_5650" src="https://github.com/user-attachments/assets/73095b4d-4667-47ee-b96a-515e2d2d8a5c" />
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0def0950-a705-496b-a14b-ce725b1e1c40" />
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f55c82e4-f130-4533-b29d-01f3a7c6fc82" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/f55c82e4-f130-4533-b29d-01f3a7c6fc82" />
 
 
 
