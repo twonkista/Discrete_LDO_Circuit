@@ -10,9 +10,9 @@ Since it's a breadboard some of the resistor values are way off and to be honest
 It right now sends in a 3.1V output which is close and is within the ESP32 tolerance level. 
 
 Here's some pictures:
-<img width="400" height="5712" alt="IMG_5649" src="https://github.com/user-attachments/assets/27158419-65f7-49c3-a6c2-fc8c47369806" />
-<img width="400" height="5712" alt="IMG_5650" src="https://github.com/user-attachments/assets/73095b4d-4667-47ee-b96a-515e2d2d8a5c" />
-<img width="400" height="990" alt="image" src="https://github.com/user-attachments/assets/0def0950-a705-496b-a14b-ce725b1e1c40" />
+<img width="400" height="400" alt="IMG_5649" src="https://github.com/user-attachments/assets/27158419-65f7-49c3-a6c2-fc8c47369806" />
+<img width="400" height="400" alt="IMG_5650" src="https://github.com/user-attachments/assets/73095b4d-4667-47ee-b96a-515e2d2d8a5c" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0def0950-a705-496b-a14b-ce725b1e1c40" />
 
 
 To be really honest the breadboard framework is kinda hard to really be worth the time to actually make it better. For the future projects I'll just use off the shelf parts
