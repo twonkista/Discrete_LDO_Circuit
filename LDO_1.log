@@ -1,0 +1,19 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\rkoma\OneDrive\Documentos\LTspice\LDO_1.net
+Start Time: Tue Aug 11 20:26:43 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.084 seconds.
+
+Files loaded:
+C:\Users\rkoma\OneDrive\Documentos\LTspice\LDO_1.net
+C:\Users\rkoma\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\rkoma\AppData\Local\LTspice\lib\sub\UniversalOpAmp2.lib
+
